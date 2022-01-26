@@ -27,3 +27,6 @@ else:
     counter, matched_words = print_to_console(read_file1, read_file2)
     print(f"Total count of matched words : {counter}")
     print(f"List of matched words: \n {matched_words}")
+
+f1.close()
+f2.close()
