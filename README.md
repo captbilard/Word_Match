@@ -1,4 +1,4 @@
-##About
+## About
 A command line script that compares two files and identifies matching words.
 
 #### Python Version
